@@ -1,0 +1,695 @@
+[
+	{
+		"code": "AG",
+		"name": "An Giang",
+		"capital": "Long Xuyên",
+		"subregion": "DBSCL",
+		"license_plate": [
+			67
+		],
+		"website": "http://www.angiang.gov.vn",
+		"area": 3536.83
+	},
+	{
+		"code": "BV",
+		"name": "Bà Rịa – Vũng Tàu",
+		"capital": "Bà Rịa",
+		"subregion": "DNB",
+		"license_plate": [
+			72
+		],
+		"website": "http://www.baria-vungtau.gov.vn",
+		"area": 1980.8
+	},
+	{
+		"code": "BL",
+		"name": "Bạc Liêu",
+		"capital": "Bạc Liêu",
+		"subregion": "DBSCL",
+		"license_plate": [
+			94
+		],
+		"website": "http://www.baclieu.gov.vn",
+		"area": 2669
+	},
+	{
+		"code": "BK",
+		"name": "Bắc Kạn",
+		"capital": "Bắc Kạn",
+		"subregion": "DBB",
+		"license_plate": [
+			97
+		],
+		"website": "http://www.backan.gov.vn",
+		"area": 4860
+	},
+	{
+		"code": "BG",
+		"name": "Bắc Giang",
+		"capital": "Bắc Giang",
+		"subregion": "DBB",
+		"license_plate": [
+			98
+		],
+		"website": "http://www.bacgian.gov.vn",
+		"area": 3895
+	},
+	{
+		"code": "BN",
+		"name": "Bắc Ninh",
+		"capital": "Bắc Ninh",
+		"subregion": "DBSH",
+		"license_plate": [
+			99
+		],
+		"website": "http://www.bacninh.gov.vn",
+		"area": 822.68
+	},
+	{
+		"code": "BT",
+		"name": "Bến Tre",
+		"capital": "Bến Tre",
+		"subregion": "DBSCL",
+		"license_plate": [
+			71
+		],
+		"website": "http://www.bentre.gov.vn",
+		"area": 2394
+	},
+	{
+		"code": "BD",
+		"name": "Bình Dương",
+		"capital": "Thủ Dầu Một",
+		"subregion": "DNB",
+		"license_plate": [
+			61
+		],
+		"website": "http://www.binhduong.gov.vn/",
+		"area": 2694.7
+	},
+	{
+		"code": "BDD",
+		"name": "Bình Định",
+		"capital": "Quy Nhơn",
+		"subregion": "NTB",
+		"license_plate": [
+			77
+		],
+		"website": "http://www.binhdinh.gov.vn/",
+		"area": 6066.2
+	},
+	{
+		"code": "BP",
+		"name": "Bình Phước",
+		"capital": "Đồng Xoài",
+		"subregion": "DNB",
+		"license_plate": [
+			93
+		],
+		"website": "http://www.binhphuoc.gov.vn/",
+		"area": 6880.6
+	},
+	{
+		"code": "BTh",
+		"name": "Bình Thuận",
+		"capital": "Phan Thiết",
+		"subregion": "NTB",
+		"license_plate": [
+			86
+		],
+		"website": "http://www.binhthuan.gov.vn/",
+		"area": 7812.8
+	},
+	{
+		"code": "CM",
+		"name": "Cà Mau",
+		"capital": "Cà Mau",
+		"subregion": "DBSCL",
+		"license_plate": [
+			69
+		],
+		"website": "http://www.camau.gov.vn/",
+		"area": 5221.19
+	},
+	{
+		"code": "CB",
+		"name": "Cao Bằng",
+		"capital": "Cao Bằng",
+		"subregion": "DBB",
+		"license_plate": [
+			11
+		],
+		"website": "http://www.caobang.gov.vn/",
+		"area": 6700.39
+	},
+	{
+		"code": "CT",
+		"name": "Cần Thơ",
+		"capital": "N/A",
+		"subregion": "DBSCL",
+		"license_plate": [
+			65
+		],
+		"website": "http://www.cantho.gov.vn/",
+		"area": 1439.2
+	},
+	{
+		"code": "DDNa",
+		"name": "Đà Nẵng",
+		"capital": "N/A",
+		"subregion": "NTB",
+		"license_plate": [
+			43
+		],
+		"website": "http://www.danang.gov.vn/",
+		"area": 1284.9
+	},
+	{
+		"code": "DDL",
+		"name": "Đắk Lắk",
+		"capital": "Buôn Ma Thuột",
+		"subregion": "TN",
+		"license_plate": [
+			47
+		],
+		"website": "http://www.daklak.gov.vn/",
+		"area": 13030.5
+	},
+	{
+		"code": "DDNo",
+		"name": "Đắk Nông",
+		"capital": "Gia Nghĩa",
+		"subregion": "TN",
+		"license_plate": [
+			48
+		],
+		"website": "http://www.daknong.gov.vn/",
+		"area": 6509.27
+	},
+	{
+		"code": "DDB",
+		"name": "Điện Biên",
+		"capital": "Điện Biên Phủ",
+		"subregion": "TBB",
+		"license_plate": [
+			27
+		],
+		"website": "http://www.dienbien.gov.vn/",
+		"area": 9541
+	},
+	{
+		"code": "DDN",
+		"name": "Đồng Nai",
+		"capital": "Biên Hòa",
+		"subregion": "DNB",
+		"license_plate": [
+			60, 39
+		],
+		"website": "http://www.dongnai.gov.vn/",
+		"area": 5905.7
+	},
+	{
+		"code": "DDT",
+		"name": "Đồng Tháp",
+		"capital": "Cao Lãnh",
+		"subregion": "DBSCL",
+		"license_plate": [
+			66
+		],
+		"website": "http://www.dongthap.gov.vn/",
+		"area": 3383.8
+	},
+	{
+		"code": "GL",
+		"name": "Gia Lai",
+		"capital": "Pleiku",
+		"subregion": "TN",
+		"license_plate": [
+			81
+		],
+		"website": "http://www.gialai.gov.vn/",
+		"area": 15510.9
+	},
+	{
+		"code": "HG",
+		"name": "Hà Giang",
+		"capital": "Hà Giang",
+		"subregion": "DBB",
+		"license_plate": [
+			23
+		],
+		"website": "http://www.hagiang.gov.vn/",
+		"area": 7929.5
+	},
+	{
+		"code": "HNa",
+		"name": "Hà Nam",
+		"capital": "Phủ Lý",
+		"subregion": "DBSH",
+		"license_plate": [
+			90
+		],
+		"website": "http://www.hanam.gov.vn/",
+		"area": 861.9
+	},
+	{
+		"code": "HN",
+		"name": "Hà Nội",
+		"capital": "N/A",
+		"subregion": "DBSH",
+		"license_plate": [
+			29,30,31,32,33,40
+		],
+		"website": "http://www.hanoi.gov.vn/",
+		"area": 3358.6
+	},
+	{
+		"code": "HT",
+		"name": "Hà Tĩnh",
+		"capital": "Hà Tĩnh",
+		"subregion": "BTB",
+		"license_plate": [
+			38
+		],
+		"website": "http://www.hatinh.gov.vn/",
+		"area": 5990.7
+	},
+	{
+		"code": "HD",
+		"name": "Hải Dương",
+		"capital": "Hải Dương",
+		"subregion": "DBSH",
+		"license_plate": [
+			34
+		],
+		"website": "http://www.haiduong.gov.vn/",
+		"area": 1668.2
+	},
+	{
+		"code": "HP",
+		"name": "Hải Phòng",
+		"capital": "N/A",
+		"subregion": "DBSH",
+		"license_plate": [
+			15, 16
+		],
+		"website": "http://www.haiphong.gov.vn/",
+		"area": 1522.5
+	},
+	{
+		"code": "HGi",
+		"name": "Hậu Giang",
+		"capital": "Vị Thanh",
+		"subregion": "DBSCL",
+		"license_plate": [
+			95
+		],
+		"website": "http://www.haugiang.gov.vn/",
+		"area": 1621.7
+	},
+	{
+		"code": "HB",
+		"name": "Hòa Bình",
+		"capital": "Hòa Bình",
+		"subregion": "TBB",
+		"license_plate": [
+			28
+		],
+		"website": "http://www.hoabinh.gov.vn/",
+		"area": 4600.3
+	},
+	{
+		"code": "HY",
+		"name": "Hưng Yên",
+		"capital": "Hưng Yên",
+		"subregion": "DBSH",
+		"license_plate": [
+			89
+		],
+		"website": "http://www.hungyen.gov.vn/",
+		"area": 930.2
+	},
+	{
+		"code": "KH",
+		"name": "Khánh Hoà",
+		"capital": "Nha Trang",
+		"subregion": "NTB",
+		"license_plate": [
+			79
+		],
+		"website": "http://www.khanhhoa.gov.vn/",
+		"area": 5137.8
+	},
+	{
+		"code": "KG",
+		"name": "Kiên Giang",
+		"capital": "Rạch Giá",
+		"subregion": "DBSCL",
+		"license_plate": [
+			68
+		],
+		"website": "http://www.kiengiang.gov.vn/",
+		"area": 6348.53
+	},
+	{
+		"code": "KT",
+		"name": "Kon Tum",
+		"capital": "Kon Tum",
+		"subregion": "TN",
+		"license_plate": [
+			82
+		],
+		"website": "http://www.kontum.gov.vn/",
+		"area": 9674.18
+	},
+	{
+		"code": "LC",
+		"name": "Lai Châu",
+		"capital": "Lai Châu",
+		"subregion": "TBB",
+		"license_plate": [
+			25
+		],
+		"website": "http://www.laichau.gov.vn/",
+		"area": 9068.8
+	},
+	{
+		"code": "LS",
+		"name": "Lạng Sơn",
+		"capital": "Lạng Sơn",
+		"subregion": "DBB",
+		"license_plate": [
+			12
+		],
+		"website": "http://www.langson.gov.vn/",
+		"area": 8310.2
+	},
+	{
+		"code": "LCa",
+		"name": "Lào Cai",
+		"capital": "Lào Cai",
+		"subregion": "TBB",
+		"license_plate": [
+			24
+		],
+		"website": "http://www.laocai.gov.vn/",
+		"area": 6364.02
+	},
+	{
+		"code": "LDD",
+		"name": "Lâm Đồng",
+		"capital": "Đà Lạt",
+		"subregion": "TN",
+		"license_plate": [
+			49
+		],
+		"website": "http://www.lamdong.gov.vn/",
+		"area": 9783.2
+	},
+	{
+		"code": "LA",
+		"name": "Long An",
+		"capital": "Tân An",
+		"subregion": "DBSCL",
+		"license_plate": [
+			62
+		],
+		"website": "http://www.longan.gov.vn/",
+		"area": 4494.93
+	},
+	{
+		"code": "NDD",
+		"name": "Nam Định",
+		"capital": "Nam Định",
+		"subregion": "DBSH",
+		"license_plate": [
+			18
+		],
+		"website": "http://www.namdinh.gov.vn/",
+		"area": 1668.5
+	},
+	{
+		"code": "NA",
+		"name": "Nghệ An",
+		"capital": "Vinh",
+		"subregion": "BTB",
+		"license_plate": [
+			37
+		],
+		"website": "http://www.nghean.gov.vn/",
+		"area": 16493.7
+	},
+	{
+		"code": "NB",
+		"name": "Ninh Bình",
+		"capital": "Ninh Bình",
+		"subregion": "DBSH",
+		"license_plate": [
+			35
+		],
+		"website": "http://www.ninhbinh.gov.vn/",
+		"area": 1386.8
+	},
+	{
+		"code": "NT",
+		"name": "Ninh Thuận",
+		"capital": "Phan Rang – Tháp Chàm",
+		"subregion": "NTB",
+		"license_plate": [
+			85
+		],
+		"website": "http://www.ninhthuan.gov.vn/",
+		"area": 3355.34
+	},
+	{
+		"code": "PT",
+		"name": "Phú Thọ",
+		"capital": "Việt Trì",
+		"subregion": "DBB",
+		"license_plate": [
+			19
+		],
+		"website": "http://www.phutho.gov.vn/",
+		"area": 3534.6
+	},
+	{
+		"code": "PY",
+		"name": "Phú Yên",
+		"capital": "Tuy Hòa",
+		"subregion": "NTB",
+		"license_plate": [
+			78
+		],
+		"website": "http://www.phuyen.gov.vn/",
+		"area": 5023.4
+	},
+	{
+		"code": "QB",
+		"name": "Quảng Bình",
+		"capital": "Đồng Hới",
+		"subregion": "BTB",
+		"license_plate": [
+			73
+		],
+		"website": "http://www.quangbinh.gov.vn/",
+		"area": 8065.3
+	},
+	{
+		"code": "QNa",
+		"name": "Quảng Nam",
+		"capital": "Tam Kỳ",
+		"subregion": "NTB",
+		"license_plate": [
+			92
+		],
+		"website": "http://www.quangnam.gov.vn/",
+		"area": 10438
+	},
+	{
+		"code": "QNg",
+		"name": "Quảng Ngãi",
+		"capital": "Quảng Ngãi",
+		"subregion": "NTB",
+		"license_plate": [
+			76
+		],
+		"website": "http://www.quangngai.gov.vn/",
+		"area": 5135.2
+	},
+	{
+		"code": "QN",
+		"name": "Quảng Ninh",
+		"capital": "Hạ Long",
+		"subregion": "DBB",
+		"license_plate": [
+			14
+		],
+		"website": "http://www.quangninh.gov.vn/",
+		"area": 6110.1
+	},
+	{
+		"code": "QT",
+		"name": "Quảng Trị",
+		"capital": "Đông Hà",
+		"subregion": "BTB",
+		"license_plate": [
+			74
+		],
+		"website": "http://www.quangtri.gov.vn/",
+		"area": 4739.8
+	},
+	{
+		"code": "ST",
+		"name": "Sóc Trăng",
+		"capital": "Sóc Trăng",
+		"subregion": "DBSCL",
+		"license_plate": [
+			83
+		],
+		"website": "http://www.soctrang.gov.vn/",
+		"area": 3311.87
+	},
+	{
+		"code": "SL",
+		"name": "Sơn La",
+		"capital": "Sơn La",
+		"subregion": "TBB",
+		"license_plate": [
+			26
+		],
+		"website": "http://www.sonla.gov.vn/",
+		"area": 14123.5
+	},
+	{
+		"code": "TN",
+		"name": "Tây Ninh",
+		"capital": "Tây Ninh",
+		"subregion": "DNB",
+		"license_plate": [
+			70
+		],
+		"website": "http://www.tayninh.gov.vn/",
+		"area": 4041.4
+	},
+	{
+		"code": "TB",
+		"name": "Thái Bình",
+		"capital": "Thái Bình",
+		"subregion": "DBSH",
+		"license_plate": [
+			17
+		],
+		"website": "http://www.thaibinh.gov.vn/",
+		"area": 1542.3
+	},
+	{
+		"code": "TNg",
+		"name": "Thái Nguyên",
+		"capital": "Thái Nguyên",
+		"subregion": "DBB",
+		"license_plate": [
+			20
+		],
+		"website": "http://www.thainguyen.gov.vn/",
+		"area": 3536.4
+	},
+	{
+		"code": "TH",
+		"name": "Thanh Hóa",
+		"capital": "Thanh Hóa",
+		"subregion": "BTB",
+		"license_plate": [
+			36
+		],
+		"website": "http://www.thanhhoa.gov.vn/",
+		"area": 11120.6
+	},
+	{
+		"code": "SG",
+		"name": "Thành phố Hồ Chí Minh",
+		"capital": "N/A",
+		"subregion": "DNB",
+		"license_plate": [
+			50, 51, 52, 53, 54, 55, 56, 57, 58, 59
+		],
+		"website": "http://www.hochiminhcity.gov.vn/",
+		"area": 2061.2
+	},
+	{
+		"code": "TTH",
+		"name": "Thừa Thiên Huế",
+		"capital": "Huế",
+		"subregion": "BTB",
+		"license_plate": [
+			75
+		],
+		"website": "http://www.thuathienhue.gov.vn/",
+		"area": 4902.4
+	},
+	{
+		"code": "TG",
+		"name": "Tiền Giang",
+		"capital": "Mỹ Tho",
+		"subregion": "DBSCL",
+		"license_plate": [
+			63
+		],
+		"website": "http://www.tiengiang.gov.vn/",
+		"area": 2510.6
+	},
+	{
+		"code": "TV",
+		"name": "Trà Vinh",
+		"capital": "Trà Vinh",
+		"subregion": "DBSCL",
+		"license_plate": [
+			84
+		],
+		"website": "http://www.travinh.gov.vn/",
+		"area": 2358.2
+	},
+	{
+		"code": "TQ",
+		"name": "Tuyên Quang",
+		"capital": "Tuyên Quang",
+		"subregion": "DBB",
+		"license_plate": [
+			22
+		],
+		"website": "http://www.tuyenquang.gov.vn/",
+		"area": 5867.9
+	},
+	{
+		"code": "VL",
+		"name": "Vĩnh Long",
+		"capital": "Vĩnh Long",
+		"subregion": "DBSCL",
+		"license_plate": [
+			64
+		],
+		"website": "http://www.vinhlong.gov.vn/",
+		"area": 1525.6
+	},
+	{
+		"code": "VP",
+		"name": "Vĩnh Phúc",
+		"capital": "Vĩnh Yên",
+		"subregion": "DBSH",
+		"license_plate": [
+			88
+		],
+		"website": "http://www.vinhphuc.gov.vn/",
+		"area": 1235.2
+	},
+	{
+		"code": "YB",
+		"name": "Yên Bái",
+		"capital": "Yên Bái",
+		"subregion": "TBB",
+		"license_plate": [
+			21
+		],
+		"website": "http://www.yenbai.gov.vn/",
+		"area": 6887.7
+	}
+]

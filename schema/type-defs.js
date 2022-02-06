@@ -14,11 +14,23 @@ const typeDefs = gql`
 		area: Float!
 	}
 
+	type Province {
+		code: String!
+		name: String!
+		capital: String!
+		subregion: Subregion!
+		license_plate: [Int]!
+		website: String!
+		area: Float!
+	}
+
 	type Query {
 		regions: [Region]!
 		region(code: String!): Region
 		subregions: [Subregion]!
 		subregion(code: String!): Subregion
+		provinces: [Province]!
+		province(code: String!): Province
 	}
 `;
 
