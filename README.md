@@ -58,6 +58,7 @@ GraphQL Query:
     name,
     capital,
     license_plate,
+    zip_code,
     area,
     website,
     subregion {
@@ -81,6 +82,7 @@ JSON response:
       "license_plate": [
         69
       ],
+      "zip_code": "98000",
       "area": 5221.19,
       "website": "http://www.camau.gov.vn/",
       "subregion": {
