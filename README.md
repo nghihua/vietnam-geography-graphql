@@ -12,7 +12,7 @@ Lấy ý tưởng từ <a href="https://github.com/substack/provinces">trevorbla
 
 GraphQL API về địa lý Việt Nam, chứa thông tin về miền (`region`), vùng (`subregion`), các tỉnh (`province`). Thông tin lấy từ Wikipedia.
 
-Note: Key của từng object nằm trong property `code`. Property `code` này được đặt theo tên viết tắt của địa phương đó, VD của Tây Nam Bộ sẽ là `TNB`.
+Note: Key của từng object nằm trong property `code`. Property `code` này được đặt theo tên viết tắt của địa phương đó, VD của Tây Nam Bộ sẽ là `TNB`. Đối với tên các tỉnh, `code` đặt theo <a href="https://vi.wikipedia.org/wiki/B%E1%BA%A3n_m%E1%BA%ABu:K%C3%BD_ki%E1%BB%87u_quy_%C6%B0%E1%BB%9Bc_c%C3%A1c_t%E1%BB%89nh_th%C3%A0nh_Vi%E1%BB%87t_Nam">tên viết tắt tàu cá</a>.
 
 <h3>GraphQL Playground</h3>
 
@@ -32,7 +32,7 @@ Inspired by <a href="https://github.com/substack/provinces">trevorblades' Countr
 
 A public GraphQL API about Vietnam's regions, subregions and provinces. Information is retrieved from Wikipedia.
 
-Note: The key/id is in the `code` property on each item. This `code` property is named after the abbreviation of each item, e.g: Tây Nam Bộ (Southwestern) is `TNB`.
+Note: The key/id is in the `code` property on each item. This `code` property is named after the abbreviation of each item, e.g: Tây Nam Bộ (Southwestern) is `TNB`. Provinces' codes are named according to <a href="https://vi.wikipedia.org/wiki/B%E1%BA%A3n_m%E1%BA%ABu:K%C3%BD_ki%E1%BB%87u_quy_%C6%B0%E1%BB%9Bc_c%C3%A1c_t%E1%BB%89nh_th%C3%A0nh_Vi%E1%BB%87t_Nam">abbreviations for boats' license plates</a>.
 
 <h3>GraphQL Playground</h3>
 
