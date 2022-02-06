@@ -4,6 +4,9 @@ const { resolvers } = require('./schema/resolvers.js');
 
 const server = new ApolloServer({ typeDefs, resolvers });
 
-server.listen().then(({url}) => {
-	console.log(`server is running at ${url}`);
+server.listen({ port: process.env.PORT || 4000 }).then(({url}) => {
+	console.log(`
+	    🚀  Server is ready at ${url}
+	    📭  Query at https://studio.apollographql.com/dev
+	  `);
 });
