@@ -16,6 +16,7 @@ Note:
 
 1. Key của từng object nằm trong property `code`. Property `code` này được đặt theo tên viết tắt của địa phương đó, VD của Tây Nam Bộ sẽ là `TNB`. Đối với tên các tỉnh, `code` đặt theo <a href="https://vi.wikipedia.org/wiki/B%E1%BA%A3n_m%E1%BA%ABu:K%C3%BD_ki%E1%BB%87u_quy_%C6%B0%E1%BB%9Bc_c%C3%A1c_t%E1%BB%89nh_th%C3%A0nh_Vi%E1%BB%87t_Nam">tên viết tắt tàu cá</a>, chữ Đ đổi thành DD.
 2. Dữ liệu nằm trong thư mục data
+3. Mã hành chính (Zip Code) lấy của Bưu cục Trung tâm từng tỉnh, từ trang https://mabuuchinh.vn/
 
 <h3>GraphQL Playground</h3>
 
@@ -39,6 +40,7 @@ Note:
 
 1. The key/id is in the `code` property on each item. This `code` property is named after the abbreviation of each item, e.g: Tây Nam Bộ (Southwestern) is `TNB`. Provinces' codes are named according to <a href="https://vi.wikipedia.org/wiki/B%E1%BA%A3n_m%E1%BA%ABu:K%C3%BD_ki%E1%BB%87u_quy_%C6%B0%E1%BB%9Bc_c%C3%A1c_t%E1%BB%89nh_th%C3%A0nh_Vi%E1%BB%87t_Nam">abbreviations for boats' license plates</a>.
 2. Data lies in the ./data folder
+3. Zip code of each province is the zip code of its main post office at https://mabuuchinh.vn/
 
 <h3>GraphQL Playground</h3>
 

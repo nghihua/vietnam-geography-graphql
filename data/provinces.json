@@ -7,6 +7,7 @@
 		"license_plate": [
 			67
 		],
+		"zip_code": "90000",
 		"website": "http://www.angiang.gov.vn",
 		"area": 3536.83
 	},
@@ -18,6 +19,7 @@
 		"license_plate": [
 			72
 		],
+		"zip_code": "78000",
 		"website": "http://www.baria-vungtau.gov.vn",
 		"area": 1980.8
 	},
@@ -29,6 +31,7 @@
 		"license_plate": [
 			94
 		],
+		"zip_code": "97000",
 		"website": "http://www.baclieu.gov.vn",
 		"area": 2669
 	},
@@ -40,6 +43,7 @@
 		"license_plate": [
 			97
 		],
+		"zip_code": "23000",
 		"website": "http://www.backan.gov.vn",
 		"area": 4860
 	},
@@ -51,6 +55,7 @@
 		"license_plate": [
 			98
 		],
+		"zip_code": "26000",
 		"website": "http://www.bacgian.gov.vn",
 		"area": 3895
 	},
@@ -62,6 +67,7 @@
 		"license_plate": [
 			99
 		],
+		"zip_code": "16000",
 		"website": "http://www.bacninh.gov.vn",
 		"area": 822.68
 	},
@@ -73,6 +79,7 @@
 		"license_plate": [
 			71
 		],
+		"zip_code": "86000",
 		"website": "http://www.bentre.gov.vn",
 		"area": 2394
 	},
@@ -84,6 +91,7 @@
 		"license_plate": [
 			61
 		],
+		"zip_code": "75000",
 		"website": "http://www.binhduong.gov.vn/",
 		"area": 2694.7
 	},
@@ -95,6 +103,7 @@
 		"license_plate": [
 			77
 		],
+		"zip_code": "55000",
 		"website": "http://www.binhdinh.gov.vn/",
 		"area": 6066.2
 	},
@@ -106,6 +115,7 @@
 		"license_plate": [
 			93
 		],
+		"zip_code": "67000",
 		"website": "http://www.binhphuoc.gov.vn/",
 		"area": 6880.6
 	},
@@ -117,6 +127,7 @@
 		"license_plate": [
 			86
 		],
+		"zip_code": "77000",
 		"website": "http://www.binhthuan.gov.vn/",
 		"area": 7812.8
 	},
@@ -128,6 +139,7 @@
 		"license_plate": [
 			69
 		],
+		"zip_code": "98000",
 		"website": "http://www.camau.gov.vn/",
 		"area": 5221.19
 	},
@@ -139,6 +151,7 @@
 		"license_plate": [
 			11
 		],
+		"zip_code": "21000",
 		"website": "http://www.caobang.gov.vn/",
 		"area": 6700.39
 	},
@@ -150,6 +163,7 @@
 		"license_plate": [
 			65
 		],
+		"zip_code": "94000",
 		"website": "http://www.cantho.gov.vn/",
 		"area": 1439.2
 	},
@@ -161,6 +175,7 @@
 		"license_plate": [
 			43
 		],
+		"zip_code": "50000",
 		"website": "http://www.danang.gov.vn/",
 		"area": 1284.9
 	},
@@ -172,6 +187,7 @@
 		"license_plate": [
 			47
 		],
+		"zip_code": "63000",
 		"website": "http://www.daklak.gov.vn/",
 		"area": 13030.5
 	},
@@ -183,6 +199,7 @@
 		"license_plate": [
 			48
 		],
+		"zip_code": "65000",
 		"website": "http://www.daknong.gov.vn/",
 		"area": 6509.27
 	},
@@ -194,6 +211,7 @@
 		"license_plate": [
 			27
 		],
+		"zip_code": "32000",
 		"website": "http://www.dienbien.gov.vn/",
 		"area": 9541
 	},
@@ -205,6 +223,7 @@
 		"license_plate": [
 			60, 39
 		],
+		"zip_code": "76000",
 		"website": "http://www.dongnai.gov.vn/",
 		"area": 5905.7
 	},
@@ -216,6 +235,7 @@
 		"license_plate": [
 			66
 		],
+		"zip_code": "81000",
 		"website": "http://www.dongthap.gov.vn/",
 		"area": 3383.8
 	},
@@ -227,6 +247,7 @@
 		"license_plate": [
 			81
 		],
+		"zip_code": "61000",
 		"website": "http://www.gialai.gov.vn/",
 		"area": 15510.9
 	},
@@ -238,6 +259,7 @@
 		"license_plate": [
 			23
 		],
+		"zip_code": "20000",
 		"website": "http://www.hagiang.gov.vn/",
 		"area": 7929.5
 	},
@@ -249,6 +271,7 @@
 		"license_plate": [
 			90
 		],
+		"zip_code": "18000",
 		"website": "http://www.hanam.gov.vn/",
 		"area": 861.9
 	},
@@ -260,6 +283,7 @@
 		"license_plate": [
 			29,30,31,32,33,40
 		],
+		"zip_code": "10000",
 		"website": "http://www.hanoi.gov.vn/",
 		"area": 3358.6
 	},
@@ -271,6 +295,7 @@
 		"license_plate": [
 			38
 		],
+		"zip_code": "45000",
 		"website": "http://www.hatinh.gov.vn/",
 		"area": 5990.7
 	},
@@ -282,6 +307,7 @@
 		"license_plate": [
 			34
 		],
+		"zip_code": "03000",
 		"website": "http://www.haiduong.gov.vn/",
 		"area": 1668.2
 	},
@@ -293,6 +319,7 @@
 		"license_plate": [
 			15, 16
 		],
+		"zip_code": "04000",
 		"website": "http://www.haiphong.gov.vn/",
 		"area": 1522.5
 	},
@@ -304,6 +331,7 @@
 		"license_plate": [
 			95
 		],
+		"zip_code": "95000",
 		"website": "http://www.haugiang.gov.vn/",
 		"area": 1621.7
 	},
@@ -315,6 +343,7 @@
 		"license_plate": [
 			28
 		],
+		"zip_code": "36000",
 		"website": "http://www.hoabinh.gov.vn/",
 		"area": 4600.3
 	},
@@ -326,6 +355,7 @@
 		"license_plate": [
 			89
 		],
+		"zip_code": "17000",
 		"website": "http://www.hungyen.gov.vn/",
 		"area": 930.2
 	},
@@ -337,6 +367,7 @@
 		"license_plate": [
 			79
 		],
+		"zip_code": "57000",
 		"website": "http://www.khanhhoa.gov.vn/",
 		"area": 5137.8
 	},
@@ -348,6 +379,7 @@
 		"license_plate": [
 			68
 		],
+		"zip_code": "91000",
 		"website": "http://www.kiengiang.gov.vn/",
 		"area": 6348.53
 	},
@@ -359,6 +391,7 @@
 		"license_plate": [
 			82
 		],
+		"zip_code": "60000",
 		"website": "http://www.kontum.gov.vn/",
 		"area": 9674.18
 	},
@@ -370,6 +403,7 @@
 		"license_plate": [
 			25
 		],
+		"zip_code": "30000",
 		"website": "http://www.laichau.gov.vn/",
 		"area": 9068.8
 	},
@@ -381,6 +415,7 @@
 		"license_plate": [
 			12
 		],
+		"zip_code": "25000",
 		"website": "http://www.langson.gov.vn/",
 		"area": 8310.2
 	},
@@ -392,6 +427,7 @@
 		"license_plate": [
 			24
 		],
+		"zip_code": "31000",
 		"website": "http://www.laocai.gov.vn/",
 		"area": 6364.02
 	},
@@ -403,6 +439,7 @@
 		"license_plate": [
 			49
 		],
+		"zip_code": "66000",
 		"website": "http://www.lamdong.gov.vn/",
 		"area": 9783.2
 	},
@@ -414,6 +451,7 @@
 		"license_plate": [
 			62
 		],
+		"zip_code": "82000",
 		"website": "http://www.longan.gov.vn/",
 		"area": 4494.93
 	},
@@ -425,6 +463,7 @@
 		"license_plate": [
 			18
 		],
+		"zip_code": "07000",
 		"website": "http://www.namdinh.gov.vn/",
 		"area": 1668.5
 	},
@@ -436,6 +475,7 @@
 		"license_plate": [
 			37
 		],
+		"zip_code": "43000",
 		"website": "http://www.nghean.gov.vn/",
 		"area": 16493.7
 	},
@@ -447,6 +487,7 @@
 		"license_plate": [
 			35
 		],
+		"zip_code": "08000",
 		"website": "http://www.ninhbinh.gov.vn/",
 		"area": 1386.8
 	},
@@ -458,6 +499,7 @@
 		"license_plate": [
 			85
 		],
+		"zip_code": "59000",
 		"website": "http://www.ninhthuan.gov.vn/",
 		"area": 3355.34
 	},
@@ -469,6 +511,7 @@
 		"license_plate": [
 			19
 		],
+		"zip_code": "35000",
 		"website": "http://www.phutho.gov.vn/",
 		"area": 3534.6
 	},
@@ -480,6 +523,7 @@
 		"license_plate": [
 			78
 		],
+		"zip_code": "56000",
 		"website": "http://www.phuyen.gov.vn/",
 		"area": 5023.4
 	},
@@ -491,6 +535,7 @@
 		"license_plate": [
 			73
 		],
+		"zip_code": "47000",
 		"website": "http://www.quangbinh.gov.vn/",
 		"area": 8065.3
 	},
@@ -502,6 +547,7 @@
 		"license_plate": [
 			92
 		],
+		"zip_code": "51000",
 		"website": "http://www.quangnam.gov.vn/",
 		"area": 10438
 	},
@@ -513,6 +559,7 @@
 		"license_plate": [
 			76
 		],
+		"zip_code": "53000",
 		"website": "http://www.quangngai.gov.vn/",
 		"area": 5135.2
 	},
@@ -524,6 +571,7 @@
 		"license_plate": [
 			14
 		],
+		"zip_code": "01000",
 		"website": "http://www.quangninh.gov.vn/",
 		"area": 6110.1
 	},
@@ -535,6 +583,7 @@
 		"license_plate": [
 			74
 		],
+		"zip_code": "48000",
 		"website": "http://www.quangtri.gov.vn/",
 		"area": 4739.8
 	},
@@ -546,6 +595,7 @@
 		"license_plate": [
 			83
 		],
+		"zip_code": "96000",
 		"website": "http://www.soctrang.gov.vn/",
 		"area": 3311.87
 	},
@@ -557,6 +607,7 @@
 		"license_plate": [
 			26
 		],
+		"zip_code": "34000",
 		"website": "http://www.sonla.gov.vn/",
 		"area": 14123.5
 	},
@@ -568,6 +619,7 @@
 		"license_plate": [
 			70
 		],
+		"zip_code": "80000",
 		"website": "http://www.tayninh.gov.vn/",
 		"area": 4041.4
 	},
@@ -579,6 +631,7 @@
 		"license_plate": [
 			17
 		],
+		"zip_code": "06000",
 		"website": "http://www.thaibinh.gov.vn/",
 		"area": 1542.3
 	},
@@ -590,6 +643,7 @@
 		"license_plate": [
 			20
 		],
+		"zip_code": "24000",
 		"website": "http://www.thainguyen.gov.vn/",
 		"area": 3536.4
 	},
@@ -601,6 +655,7 @@
 		"license_plate": [
 			36
 		],
+		"zip_code": "40000",
 		"website": "http://www.thanhhoa.gov.vn/",
 		"area": 11120.6
 	},
@@ -612,6 +667,7 @@
 		"license_plate": [
 			50, 51, 52, 53, 54, 55, 56, 57, 58, 59
 		],
+		"zip_code": "70000",
 		"website": "http://www.hochiminhcity.gov.vn/",
 		"area": 2061.2
 	},
@@ -623,6 +679,7 @@
 		"license_plate": [
 			75
 		],
+		"zip_code": "49000",
 		"website": "http://www.thuathienhue.gov.vn/",
 		"area": 4902.4
 	},
@@ -634,6 +691,7 @@
 		"license_plate": [
 			63
 		],
+		"zip_code": "84000",
 		"website": "http://www.tiengiang.gov.vn/",
 		"area": 2510.6
 	},
@@ -645,6 +703,7 @@
 		"license_plate": [
 			84
 		],
+		"zip_code": "87000",
 		"website": "http://www.travinh.gov.vn/",
 		"area": 2358.2
 	},
@@ -656,6 +715,7 @@
 		"license_plate": [
 			22
 		],
+		"zip_code": "22000",
 		"website": "http://www.tuyenquang.gov.vn/",
 		"area": 5867.9
 	},
@@ -667,6 +727,7 @@
 		"license_plate": [
 			64
 		],
+		"zip_code": "85000",
 		"website": "http://www.vinhlong.gov.vn/",
 		"area": 1525.6
 	},
@@ -678,6 +739,7 @@
 		"license_plate": [
 			88
 		],
+		"zip_code": "15000",
 		"website": "http://www.vinhphuc.gov.vn/",
 		"area": 1235.2
 	},
@@ -689,6 +751,7 @@
 		"license_plate": [
 			21
 		],
+		"zip_code": "33000",
 		"website": "http://www.yenbai.gov.vn/",
 		"area": 6887.7
 	}

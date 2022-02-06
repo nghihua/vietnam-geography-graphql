@@ -20,6 +20,7 @@ const typeDefs = gql`
 		capital: String!
 		subregion: Subregion!
 		license_plate: [Int]!
+		zip_code: String!
 		website: String!
 		area: Float!
 	}
