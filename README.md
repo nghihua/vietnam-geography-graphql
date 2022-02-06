@@ -43,3 +43,51 @@ Note:
 <h3>GraphQL Playground</h3>
 
 Check out [the playground](https://vietnam-geography-graphql.herokuapp.com/) to explore the schema and test out some queries.
+
+<br>
+
+<h1 align="center"></h1>
+<h2>Query Mẫu - Sample Queries</h2>
+
+GraphQL Query:
+```graphql
+{
+  province(code: "CM") {
+    name,
+    capital,
+    license_plate,
+    area,
+    website,
+    subregion {
+      name,
+      region {
+        name
+      }
+    }
+  }
+}
+```
+
+JSON response:
+
+```json
+{
+  "data": {
+    "province": {
+      "name": "Cà Mau",
+      "capital": "Cà Mau",
+      "license_plate": [
+        69
+      ],
+      "area": 5221.19,
+      "website": "http://www.camau.gov.vn/",
+      "subregion": {
+        "name": "Đông Bắc Bộ",
+        "region": {
+          "name": "Bắc Bộ"
+        }
+      }
+    }
+  }
+}
+```
