@@ -1,0 +1,17 @@
+[
+	{
+		"code": "BB",
+		"name": "Bắc Bộ",
+		"area": 109942.9
+	},
+	{
+		"code": "TB",
+		"name": "Trung Bộ",
+		"area": 151234
+	},
+	{
+		"code": "NB",
+		"name": "Nam Bộ",
+		"area": 77700
+	}
+]

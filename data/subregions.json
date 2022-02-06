@@ -1,0 +1,50 @@
+[
+	{
+		"code": "DBB",
+		"region": "BB",
+		"name": "Đông Bắc Bộ",
+		"area": 50681.1
+	},
+	{
+		"code": "TBB",
+		"region": "BB",
+		"name": "Tây Bắc Bộ",
+		"area": 44301.1
+	},
+	{
+		"code": "DBSH",
+		"region": "BB",
+		"name": "Đồng Bằng Sông Hồng",
+		"area": 14957.7
+	},
+	{
+		"code": "BTB",
+		"region": "TB",
+		"name": "Bắc Trung Bộ",
+		"area": 51455.6
+	},
+	{
+		"code": "NTB",
+		"region": "TB",
+		"name": "Duyên Hải Nam Trung Bộ",
+		"area": 44376.8
+	},
+	{
+		"code": "TN",
+		"region": "TB",
+		"name": "Tây Nguyên",
+		"area": 54641
+	},
+	{
+		"code": "DNB",
+		"region": "NB",
+		"name": "Đông Nam Bộ",
+		"area": 23590.7
+	},
+	{
+		"code": "DBSCL",
+		"region": "NB",
+		"name": "Đồng Bằng Sông Cửu Long",
+		"area": 40576
+	}
+]
