@@ -24,9 +24,18 @@ const resolvers = {
 		}
 	},
 
+	Region: {
+		subregions(parent, args) {
+			return subregions_data.filter(subregion => subregion.region = parent.code);
+		}
+	},
+
 	Subregion: {
 		region(parent, args) {
 			return regions_data.find(region => region.code = parent.region);
+		},
+		provinces(parent, args) {
+			return provinces_data.filter(province => province.subregion = parent.code);
 		}
 	},
 

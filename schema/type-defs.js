@@ -5,6 +5,7 @@ const typeDefs = gql`
 		code: String!
 		name: String!
 		area: Float!
+		subregions: [Subregion]!
 	}
 
 	type Subregion {
@@ -12,6 +13,7 @@ const typeDefs = gql`
 		region: Region
 		name: String!
 		area: Float!
+		provinces: [Province]!
 	}
 
 	type Province {
