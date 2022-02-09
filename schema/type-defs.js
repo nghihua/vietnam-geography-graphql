@@ -23,6 +23,9 @@ const typeDefs = gql`
 		subregion: Subregion!
 		license_plate: [Int]!
 		zip_code: String!
+		population: Float!
+		population_density: Float!
+		phone_code: String!
 		website: String!
 		area: Float!
 	}
